@@ -124,6 +124,7 @@ class Encrypter {
           return stringToConvert[i];
       }
     }
+    result = result + " ";
     return result.toString();
   }
 
